@@ -5,17 +5,17 @@ import joblib
 # Title
 st.header("Alzheimer's Disease Classification App")
 
-# App Description
-with st.container():
-    st.write("This app classify the subject using machine learning model into 4 classes.")
-    st.write("The 4 classes are :")
-    st.write("1. Cognitively normal.")
-    st.write("2. Has very mild alzheimer's disease.")
-    st.write("3. Has mild alzheimer's disease.")
-    st.write("4. Has moderate alzheimer's disease.")
-    st.write("To classify the subject you need to input 7 data of the subject.")  
-    st.write("You can see the data description on the sidebar.")
-    st.write("You can input the needed data below.")
+# # App Description
+# with st.container():
+#     st.write("This app classify the subject using machine learning model into 4 classes.")
+#     st.write("The 4 classes are :")
+#     st.write("1. Cognitively normal.")
+#     st.write("2. Has very mild alzheimer's disease.")
+#     st.write("3. Has mild alzheimer's disease.")
+#     st.write("4. Has moderate alzheimer's disease.")
+#     st.write("To classify the subject you need to input 7 data of the subject.")  
+#     st.write("You can see the data description on the sidebar.")
+#     st.write("You can input the needed data below.")
 
 # # Data Description
 # with st.sidebar:
