@@ -3,8 +3,8 @@ import pandas as pd
 import joblib
 
 # Title
-st.header("Alzheimer's Disease Classification App")
-
+# st.header("Alzheimer's Disease Classification App")
+st.write('hi')
 # # App Description
 # with st.container():
 #     st.write("This app classify the subject using machine learning model into 4 classes.")
